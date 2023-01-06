@@ -10,6 +10,8 @@ Outside of work, I enjoy...
 - Anime & Manga
 - Dancing, cooking and taking pictures that inspires me
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Last-Autumn-Leaf)](https://github.com/anuraghazra/github-readme-stats)
+
 # 📝Writing
 - [Co-author of a scientific article on the design of a flow measurement test bench, in the journal Flow Measurement & Instrumentation.](https://linkinghub.elsevier.com/retrieve/pii/S0955598622000188)
 

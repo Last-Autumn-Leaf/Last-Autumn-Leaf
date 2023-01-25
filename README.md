@@ -16,8 +16,10 @@ Outside of work, I enjoy...
 - [Co-author of a scientific article on the design of a flow measurement test bench, in the journal Flow Measurement & Instrumentation.](https://linkinghub.elsevier.com/retrieve/pii/S0955598622000188)
 
 # 📫 Connect with Me
+<!---
 - [Portfolio](https://www.linkedin.com/in/carl-andré-gassette/)
 - [Linkedin](https://www.linkedin.com/in/carl-andré-gassette/)
+--->
 - [LeetCode](https://leetcode.com/Last-Autumn-Leaf )
 - [Kaggle](https://www.kaggle.com/lastautumnleaf)
 

@@ -20,7 +20,6 @@ Outside of work, I enjoy...
 - [Linkedin](https://www.linkedin.com/in/carl-andré-gassette/)
 --->
 - [LeetCode](https://leetcode.com/Last-Autumn-Leaf )
-- [Kaggle](https://www.kaggle.com/lastautumnleaf)
 
 <!---
 Last-Autumn-Leaf/Last-Autumn-Leaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
